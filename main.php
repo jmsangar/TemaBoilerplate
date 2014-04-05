@@ -1,7 +1,3 @@
-<?php get_header("single"); ?>
-
-
-	
 <main>
 		
 	<?php the_post(); ?>
@@ -26,10 +22,3 @@
 
 
 </main>
-
-
-
-
-
-<?php get_footer(); ?>
-
